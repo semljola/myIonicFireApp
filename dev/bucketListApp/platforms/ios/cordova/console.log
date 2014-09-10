@@ -7,3 +7,430 @@
 2014-05-29 17:50:20.705 BucketList App[1646:70b] Resetting plugins due to page load.
 2014-05-29 17:50:21.183 BucketList App[1646:70b] Finished load of: file:///Users/arvindravulavaru/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E9BD69FF-847D-423E-9179-1429D6E02290/BucketList%20App.app/www/index.html
 Terminating in response to SpringBoard's termination.
+objc[24688]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 17:50:46.562 BucketList App[24688:70b] Cannot find executable for CFBundle 0xa3aaa70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 17:50:46.584 BucketList App[24688:70b] Cannot find executable for CFBundle 0xa5a7e70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 17:50:46.649 BucketList App[24688:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 17:50:46.682 BucketList App[24688:70b] Unlimited access to network resources
+2014-09-10 17:50:47.208 BucketList App[24688:70b] [CDVTimer][keyboard] 0.139952ms
+2014-09-10 17:50:47.209 BucketList App[24688:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 17:50:47.209 BucketList App[24688:70b] [CDVTimer][statusbar] 0.474036ms
+2014-09-10 17:50:47.210 BucketList App[24688:70b] [CDVTimer][TotalPluginStartup] 1.747012ms
+2014-09-10 17:50:47.440 BucketList App[24688:70b] Resetting plugins due to page load.
+2014-09-10 17:50:47.995 BucketList App[24688:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+2014-09-10 17:52:28.349 BucketList App[24688:70b] Resetting plugins due to page load.
+2014-09-10 17:52:49.104 BucketList App[24688:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+Terminating in response to SpringBoard's termination.
+objc[24907]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 17:53:55.032 BucketList App[24907:70b] Cannot find executable for CFBundle 0xa47a610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 17:53:55.039 BucketList App[24907:70b] Cannot find executable for CFBundle 0xa3a99a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 17:53:55.073 BucketList App[24907:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 17:53:55.092 BucketList App[24907:70b] Unlimited access to network resources
+2014-09-10 17:53:55.172 BucketList App[24907:70b] [CDVTimer][keyboard] 0.099957ms
+2014-09-10 17:53:55.181 BucketList App[24907:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 17:53:55.182 BucketList App[24907:70b] [CDVTimer][statusbar] 1.546979ms
+2014-09-10 17:53:55.183 BucketList App[24907:70b] [CDVTimer][TotalPluginStartup] 10.902047ms
+2014-09-10 17:53:55.401 BucketList App[24907:70b] Resetting plugins due to page load.
+2014-09-10 17:53:55.836 BucketList App[24907:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+Terminating in response to SpringBoard's termination.
+objc[25300]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 17:59:54.468 BucketList App[25300:70b] Cannot find executable for CFBundle 0xa3510d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 17:59:54.475 BucketList App[25300:70b] Cannot find executable for CFBundle 0xa5302e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 17:59:54.522 BucketList App[25300:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 17:59:54.575 BucketList App[25300:70b] Unlimited access to network resources
+2014-09-10 17:59:54.931 BucketList App[25300:70b] [CDVTimer][keyboard] 0.064015ms
+2014-09-10 17:59:54.932 BucketList App[25300:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 17:59:54.932 BucketList App[25300:70b] [CDVTimer][statusbar] 0.312030ms
+2014-09-10 17:59:54.932 BucketList App[25300:70b] [CDVTimer][TotalPluginStartup] 1.163960ms
+2014-09-10 17:59:55.138 BucketList App[25300:70b] Resetting plugins due to page load.
+2014-09-10 17:59:55.615 BucketList App[25300:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[25686]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:12:00.551 BucketList App[25686:70b] Cannot find executable for CFBundle 0xa3565e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:12:00.558 BucketList App[25686:70b] Cannot find executable for CFBundle 0xa3750b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:12:00.600 BucketList App[25686:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:12:00.627 BucketList App[25686:70b] Unlimited access to network resources
+2014-09-10 18:12:00.788 BucketList App[25686:70b] [CDVTimer][keyboard] 0.066996ms
+2014-09-10 18:12:00.789 BucketList App[25686:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:12:00.789 BucketList App[25686:70b] [CDVTimer][statusbar] 0.496984ms
+2014-09-10 18:12:00.790 BucketList App[25686:70b] [CDVTimer][TotalPluginStartup] 1.339972ms
+2014-09-10 18:12:00.969 BucketList App[25686:70b] Resetting plugins due to page load.
+2014-09-10 18:12:01.343 BucketList App[25686:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html
+objc[26033]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:12:48.132 BucketList App[26033:70b] Cannot find executable for CFBundle 0xa274f60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:12:48.149 BucketList App[26033:70b] Cannot find executable for CFBundle 0xa463b30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:12:48.179 BucketList App[26033:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:12:48.187 BucketList App[26033:70b] Unlimited access to network resources
+2014-09-10 18:12:48.211 BucketList App[26033:70b] [CDVTimer][keyboard] 0.321984ms
+2014-09-10 18:12:48.212 BucketList App[26033:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:12:48.213 BucketList App[26033:70b] [CDVTimer][statusbar] 0.512004ms
+2014-09-10 18:12:48.213 BucketList App[26033:70b] [CDVTimer][TotalPluginStartup] 1.934946ms
+2014-09-10 18:12:48.330 BucketList App[26033:70b] Resetting plugins due to page load.
+2014-09-10 18:12:48.845 BucketList App[26033:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html
+objc[26390]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:14:38.203 BucketList App[26390:70b] Cannot find executable for CFBundle 0xa3428a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:14:38.219 BucketList App[26390:70b] Cannot find executable for CFBundle 0xa483f90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:14:38.253 BucketList App[26390:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:14:38.264 BucketList App[26390:70b] Unlimited access to network resources
+2014-09-10 18:14:38.308 BucketList App[26390:70b] [CDVTimer][keyboard] 0.095010ms
+2014-09-10 18:14:38.309 BucketList App[26390:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:14:38.312 BucketList App[26390:70b] [CDVTimer][statusbar] 2.534986ms
+2014-09-10 18:14:38.312 BucketList App[26390:70b] [CDVTimer][TotalPluginStartup] 3.785014ms
+2014-09-10 18:14:38.426 BucketList App[26390:70b] Resetting plugins due to page load.
+2014-09-10 18:14:38.795 BucketList App[26390:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html
+objc[26737]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:15:28.904 BucketList App[26737:70b] Cannot find executable for CFBundle 0xa47e9d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:15:28.912 BucketList App[26737:70b] Cannot find executable for CFBundle 0xa49f7e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:15:28.943 BucketList App[26737:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:15:28.950 BucketList App[26737:70b] Unlimited access to network resources
+2014-09-10 18:15:28.971 BucketList App[26737:70b] [CDVTimer][keyboard] 0.092983ms
+2014-09-10 18:15:28.972 BucketList App[26737:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:15:28.972 BucketList App[26737:70b] [CDVTimer][statusbar] 0.463009ms
+2014-09-10 18:15:28.973 BucketList App[26737:70b] [CDVTimer][TotalPluginStartup] 1.487970ms
+2014-09-10 18:15:29.080 BucketList App[26737:70b] Resetting plugins due to page load.
+2014-09-10 18:15:29.512 BucketList App[26737:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[27089]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:17:16.064 BucketList App[27089:70b] Cannot find executable for CFBundle 0xa225280 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:17:16.087 BucketList App[27089:70b] Cannot find executable for CFBundle 0xa449c90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:17:16.122 BucketList App[27089:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:17:16.157 BucketList App[27089:70b] Unlimited access to network resources
+2014-09-10 18:17:16.490 BucketList App[27089:70b] [CDVTimer][keyboard] 0.094950ms
+2014-09-10 18:17:16.491 BucketList App[27089:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:17:16.491 BucketList App[27089:70b] [CDVTimer][statusbar] 0.407040ms
+2014-09-10 18:17:16.492 BucketList App[27089:70b] [CDVTimer][TotalPluginStartup] 1.462996ms
+2014-09-10 18:17:16.712 BucketList App[27089:70b] Resetting plugins due to page load.
+2014-09-10 18:17:17.157 BucketList App[27089:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[27443]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:18:43.077 BucketList App[27443:70b] Cannot find executable for CFBundle 0xa48f730 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:18:43.086 BucketList App[27443:70b] Cannot find executable for CFBundle 0xa295f20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:18:43.121 BucketList App[27443:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:18:43.129 BucketList App[27443:70b] Unlimited access to network resources
+2014-09-10 18:18:43.154 BucketList App[27443:70b] [CDVTimer][keyboard] 0.086963ms
+2014-09-10 18:18:43.154 BucketList App[27443:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:18:43.155 BucketList App[27443:70b] [CDVTimer][statusbar] 0.411034ms
+2014-09-10 18:18:43.155 BucketList App[27443:70b] [CDVTimer][TotalPluginStartup] 1.420021ms
+2014-09-10 18:18:43.273 BucketList App[27443:70b] Resetting plugins due to page load.
+2014-09-10 18:18:43.631 BucketList App[27443:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[27800]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:20:36.512 BucketList App[27800:70b] Cannot find executable for CFBundle 0xa389f70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:20:36.519 BucketList App[27800:70b] Cannot find executable for CFBundle 0xa4a7c40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:20:36.548 BucketList App[27800:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:20:36.555 BucketList App[27800:70b] Unlimited access to network resources
+2014-09-10 18:20:36.578 BucketList App[27800:70b] [CDVTimer][keyboard] 0.087976ms
+2014-09-10 18:20:36.579 BucketList App[27800:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:20:36.579 BucketList App[27800:70b] [CDVTimer][statusbar] 0.416040ms
+2014-09-10 18:20:36.580 BucketList App[27800:70b] [CDVTimer][TotalPluginStartup] 1.488984ms
+2014-09-10 18:20:36.686 BucketList App[27800:70b] Resetting plugins due to page load.
+2014-09-10 18:20:37.016 BucketList App[27800:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[28161]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:23:24.982 BucketList App[28161:70b] Cannot find executable for CFBundle 0xa419e60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:23:24.992 BucketList App[28161:70b] Cannot find executable for CFBundle 0xa557160 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:23:25.033 BucketList App[28161:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:23:25.060 BucketList App[28161:70b] Unlimited access to network resources
+2014-09-10 18:23:25.290 BucketList App[28161:70b] [CDVTimer][keyboard] 0.105977ms
+2014-09-10 18:23:25.290 BucketList App[28161:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:23:25.293 BucketList App[28161:70b] [CDVTimer][statusbar] 2.187014ms
+2014-09-10 18:23:25.293 BucketList App[28161:70b] [CDVTimer][TotalPluginStartup] 3.548026ms
+2014-09-10 18:23:25.490 BucketList App[28161:70b] Resetting plugins due to page load.
+2014-09-10 18:23:26.064 BucketList App[28161:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[28598]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:28:42.327 BucketList App[28598:70b] Cannot find executable for CFBundle 0xa4468b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:28:42.335 BucketList App[28598:70b] Cannot find executable for CFBundle 0xa467700 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:28:42.371 BucketList App[28598:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:28:42.419 BucketList App[28598:70b] Unlimited access to network resources
+2014-09-10 18:28:42.588 BucketList App[28598:70b] [CDVTimer][keyboard] 0.065982ms
+2014-09-10 18:28:42.588 BucketList App[28598:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:28:42.588 BucketList App[28598:70b] [CDVTimer][statusbar] 0.397027ms
+2014-09-10 18:28:42.589 BucketList App[28598:70b] [CDVTimer][TotalPluginStartup] 1.353025ms
+2014-09-10 18:28:42.854 BucketList App[28598:70b] Resetting plugins due to page load.
+2014-09-10 18:28:43.295 BucketList App[28598:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[28960]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:30:24.906 BucketList App[28960:70b] Cannot find executable for CFBundle 0xa4af3e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:30:24.912 BucketList App[28960:70b] Cannot find executable for CFBundle 0xa4bf6a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:30:24.946 BucketList App[28960:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:30:24.953 BucketList App[28960:70b] Unlimited access to network resources
+2014-09-10 18:30:25.092 BucketList App[28960:70b] [CDVTimer][keyboard] 0.100017ms
+2014-09-10 18:30:25.094 BucketList App[28960:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:30:25.095 BucketList App[28960:70b] [CDVTimer][statusbar] 1.249015ms
+2014-09-10 18:30:25.096 BucketList App[28960:70b] [CDVTimer][TotalPluginStartup] 4.096031ms
+2014-09-10 18:30:25.213 BucketList App[28960:70b] Resetting plugins due to page load.
+2014-09-10 18:30:25.600 BucketList App[28960:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[29322]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:33:31.799 BucketList App[29322:70b] Cannot find executable for CFBundle 0xa260ac0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:33:31.806 BucketList App[29322:70b] Cannot find executable for CFBundle 0xa5551d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:33:31.838 BucketList App[29322:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:33:31.849 BucketList App[29322:70b] Unlimited access to network resources
+2014-09-10 18:33:31.876 BucketList App[29322:70b] [CDVTimer][keyboard] 0.059009ms
+2014-09-10 18:33:31.876 BucketList App[29322:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:33:31.877 BucketList App[29322:70b] [CDVTimer][statusbar] 0.373006ms
+2014-09-10 18:33:31.877 BucketList App[29322:70b] [CDVTimer][TotalPluginStartup] 1.271009ms
+2014-09-10 18:33:31.979 BucketList App[29322:70b] Resetting plugins due to page load.
+2014-09-10 18:33:32.421 BucketList App[29322:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[29670]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:34:12.213 BucketList App[29670:70b] Cannot find executable for CFBundle 0xa333fe0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:34:12.220 BucketList App[29670:70b] Cannot find executable for CFBundle 0xa46b890 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:34:12.253 BucketList App[29670:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:34:12.261 BucketList App[29670:70b] Unlimited access to network resources
+2014-09-10 18:34:12.287 BucketList App[29670:70b] [CDVTimer][keyboard] 0.084996ms
+2014-09-10 18:34:12.288 BucketList App[29670:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:34:12.288 BucketList App[29670:70b] [CDVTimer][statusbar] 0.429034ms
+2014-09-10 18:34:12.288 BucketList App[29670:70b] [CDVTimer][TotalPluginStartup] 1.505971ms
+2014-09-10 18:34:12.422 BucketList App[29670:70b] Resetting plugins due to page load.
+2014-09-10 18:34:12.816 BucketList App[29670:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[30050]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:39:47.494 BucketList App[30050:70b] Cannot find executable for CFBundle 0xa5684f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:39:47.501 BucketList App[30050:70b] Cannot find executable for CFBundle 0xa469710 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:39:47.538 BucketList App[30050:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:39:47.564 BucketList App[30050:70b] Unlimited access to network resources
+2014-09-10 18:39:47.698 BucketList App[30050:70b] [CDVTimer][keyboard] 0.087976ms
+2014-09-10 18:39:47.698 BucketList App[30050:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:39:47.699 BucketList App[30050:70b] [CDVTimer][statusbar] 0.455976ms
+2014-09-10 18:39:47.699 BucketList App[30050:70b] [CDVTimer][TotalPluginStartup] 1.470029ms
+2014-09-10 18:39:47.879 BucketList App[30050:70b] Resetting plugins due to page load.
+2014-09-10 18:39:48.348 BucketList App[30050:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+Terminating in response to SpringBoard's termination.
+objc[30582]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:44:53.641 BucketList App[30582:70b] Cannot find executable for CFBundle 0xa57e5d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:44:53.650 BucketList App[30582:70b] Cannot find executable for CFBundle 0xa582af0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:44:53.694 BucketList App[30582:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:44:53.729 BucketList App[30582:70b] Unlimited access to network resources
+2014-09-10 18:44:53.990 BucketList App[30582:70b] [CDVTimer][keyboard] 0.931978ms
+2014-09-10 18:44:53.991 BucketList App[30582:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:44:53.991 BucketList App[30582:70b] [CDVTimer][statusbar] 0.506043ms
+2014-09-10 18:44:53.992 BucketList App[30582:70b] [CDVTimer][TotalPluginStartup] 2.358019ms
+2014-09-10 18:44:54.183 BucketList App[30582:70b] Resetting plugins due to page load.
+2014-09-10 18:44:54.809 BucketList App[30582:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[30839]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 18:57:50.415 BucketList App[30839:70b] Cannot find executable for CFBundle 0xa553d40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 18:57:50.422 BucketList App[30839:70b] Cannot find executable for CFBundle 0xa273ac0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 18:57:50.475 BucketList App[30839:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 18:57:50.532 BucketList App[30839:70b] Unlimited access to network resources
+2014-09-10 18:57:50.717 BucketList App[30839:70b] [CDVTimer][keyboard] 0.101030ms
+2014-09-10 18:57:50.718 BucketList App[30839:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 18:57:50.718 BucketList App[30839:70b] [CDVTimer][statusbar] 0.582039ms
+2014-09-10 18:57:50.719 BucketList App[30839:70b] [CDVTimer][TotalPluginStartup] 1.601994ms
+2014-09-10 18:57:50.906 BucketList App[30839:70b] Resetting plugins due to page load.
+2014-09-10 18:57:51.362 BucketList App[30839:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[31230]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:06:29.091 BucketList App[31230:70b] Cannot find executable for CFBundle 0xa23dbf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:06:29.100 BucketList App[31230:70b] Cannot find executable for CFBundle 0xa24e010 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:06:29.144 BucketList App[31230:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:06:29.154 BucketList App[31230:70b] Unlimited access to network resources
+2014-09-10 19:06:29.216 BucketList App[31230:70b] [CDVTimer][keyboard] 0.096977ms
+2014-09-10 19:06:29.217 BucketList App[31230:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:06:29.217 BucketList App[31230:70b] [CDVTimer][statusbar] 0.446022ms
+2014-09-10 19:06:29.218 BucketList App[31230:70b] [CDVTimer][TotalPluginStartup] 1.664996ms
+2014-09-10 19:06:29.333 BucketList App[31230:70b] Resetting plugins due to page load.
+2014-09-10 19:06:29.725 BucketList App[31230:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[31586]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:08:33.561 BucketList App[31586:70b] Cannot find executable for CFBundle 0xa383960 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:08:33.565 BucketList App[31586:70b] Cannot find executable for CFBundle 0xa38d0b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:08:33.597 BucketList App[31586:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:08:33.605 BucketList App[31586:70b] Unlimited access to network resources
+2014-09-10 19:08:33.627 BucketList App[31586:70b] [CDVTimer][keyboard] 0.082016ms
+2014-09-10 19:08:33.628 BucketList App[31586:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:08:33.628 BucketList App[31586:70b] [CDVTimer][statusbar] 0.396013ms
+2014-09-10 19:08:33.629 BucketList App[31586:70b] [CDVTimer][TotalPluginStartup] 1.356006ms
+2014-09-10 19:08:33.736 BucketList App[31586:70b] Resetting plugins due to page load.
+2014-09-10 19:08:34.193 BucketList App[31586:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[31961]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:10:19.340 BucketList App[31961:70b] Cannot find executable for CFBundle 0xa48a280 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:10:19.350 BucketList App[31961:70b] Cannot find executable for CFBundle 0xa2cea70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:10:19.382 BucketList App[31961:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:10:19.390 BucketList App[31961:70b] Unlimited access to network resources
+2014-09-10 19:10:19.414 BucketList App[31961:70b] [CDVTimer][keyboard] 0.098944ms
+2014-09-10 19:10:19.418 BucketList App[31961:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:10:19.418 BucketList App[31961:70b] [CDVTimer][statusbar] 0.444949ms
+2014-09-10 19:10:19.419 BucketList App[31961:70b] [CDVTimer][TotalPluginStartup] 4.988015ms
+2014-09-10 19:10:19.567 BucketList App[31961:70b] Resetting plugins due to page load.
+2014-09-10 19:10:19.979 BucketList App[31961:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[32321]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:12:47.757 BucketList App[32321:70b] Cannot find executable for CFBundle 0xa47a050 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:12:47.769 BucketList App[32321:70b] Cannot find executable for CFBundle 0xa579600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:12:47.812 BucketList App[32321:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:12:47.820 BucketList App[32321:70b] Unlimited access to network resources
+2014-09-10 19:12:47.843 BucketList App[32321:70b] [CDVTimer][keyboard] 0.091970ms
+2014-09-10 19:12:47.843 BucketList App[32321:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:12:47.844 BucketList App[32321:70b] [CDVTimer][statusbar] 0.405967ms
+2014-09-10 19:12:47.844 BucketList App[32321:70b] [CDVTimer][TotalPluginStartup] 1.429975ms
+2014-09-10 19:12:47.990 BucketList App[32321:70b] Resetting plugins due to page load.
+2014-09-10 19:12:48.404 BucketList App[32321:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[32672]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:13:27.991 BucketList App[32672:70b] Cannot find executable for CFBundle 0xa2acd70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:13:27.997 BucketList App[32672:70b] Cannot find executable for CFBundle 0xa4a3930 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:13:28.029 BucketList App[32672:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:13:28.036 BucketList App[32672:70b] Unlimited access to network resources
+2014-09-10 19:13:28.060 BucketList App[32672:70b] [CDVTimer][keyboard] 0.095010ms
+2014-09-10 19:13:28.060 BucketList App[32672:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:13:28.061 BucketList App[32672:70b] [CDVTimer][statusbar] 0.429988ms
+2014-09-10 19:13:28.061 BucketList App[32672:70b] [CDVTimer][TotalPluginStartup] 1.507998ms
+2014-09-10 19:13:28.168 BucketList App[32672:70b] Resetting plugins due to page load.
+2014-09-10 19:13:28.601 BucketList App[32672:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[32880]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:14:26.087 BucketList App[32880:70b] Cannot find executable for CFBundle 0xa39ee60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:14:26.093 BucketList App[32880:70b] Cannot find executable for CFBundle 0xa3b8490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:14:26.125 BucketList App[32880:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:14:26.133 BucketList App[32880:70b] Unlimited access to network resources
+2014-09-10 19:14:26.155 BucketList App[32880:70b] [CDVTimer][keyboard] 0.091970ms
+2014-09-10 19:14:26.156 BucketList App[32880:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:14:26.156 BucketList App[32880:70b] [CDVTimer][statusbar] 0.404000ms
+2014-09-10 19:14:26.156 BucketList App[32880:70b] [CDVTimer][TotalPluginStartup] 1.428008ms
+2014-09-10 19:14:26.290 BucketList App[32880:70b] Resetting plugins due to page load.
+2014-09-10 19:14:26.693 BucketList App[32880:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[33231]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:15:14.443 BucketList App[33231:70b] Cannot find executable for CFBundle 0xa24edf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:15:14.451 BucketList App[33231:70b] Cannot find executable for CFBundle 0xa25e0c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:15:14.484 BucketList App[33231:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:15:14.492 BucketList App[33231:70b] Unlimited access to network resources
+2014-09-10 19:15:14.516 BucketList App[33231:70b] [CDVTimer][keyboard] 0.088990ms
+2014-09-10 19:15:14.516 BucketList App[33231:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:15:14.517 BucketList App[33231:70b] [CDVTimer][statusbar] 0.473022ms
+2014-09-10 19:15:14.517 BucketList App[33231:70b] [CDVTimer][TotalPluginStartup] 1.619041ms
+2014-09-10 19:15:14.630 BucketList App[33231:70b] Resetting plugins due to page load.
+2014-09-10 19:15:15.030 BucketList App[33231:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[33437]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:16:22.861 BucketList App[33437:70b] Cannot find executable for CFBundle 0xa36ee20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:16:22.870 BucketList App[33437:70b] Cannot find executable for CFBundle 0xa374d30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:16:22.905 BucketList App[33437:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:16:22.913 BucketList App[33437:70b] Unlimited access to network resources
+2014-09-10 19:16:22.942 BucketList App[33437:70b] [CDVTimer][keyboard] 0.100017ms
+2014-09-10 19:16:22.943 BucketList App[33437:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:16:22.943 BucketList App[33437:70b] [CDVTimer][statusbar] 0.576973ms
+2014-09-10 19:16:22.943 BucketList App[33437:70b] [CDVTimer][TotalPluginStartup] 1.636028ms
+2014-09-10 19:16:23.065 BucketList App[33437:70b] Resetting plugins due to page load.
+2014-09-10 19:16:23.518 BucketList App[33437:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[33956]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:19:26.638 BucketList App[33956:70b] Cannot find executable for CFBundle 0xa45fbf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:19:26.646 BucketList App[33956:70b] Cannot find executable for CFBundle 0xa592540 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:19:26.732 BucketList App[33956:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:19:26.763 BucketList App[33956:70b] Unlimited access to network resources
+2014-09-10 19:19:26.913 BucketList App[33956:70b] [CDVTimer][keyboard] 0.100017ms
+2014-09-10 19:19:26.914 BucketList App[33956:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:19:26.915 BucketList App[33956:70b] [CDVTimer][statusbar] 0.634015ms
+2014-09-10 19:19:26.915 BucketList App[33956:70b] [CDVTimer][TotalPluginStartup] 1.703024ms
+2014-09-10 19:19:27.129 BucketList App[33956:70b] Resetting plugins due to page load.
+2014-09-10 19:19:27.566 BucketList App[33956:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[34313]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:21:27.210 BucketList App[34313:70b] Cannot find executable for CFBundle 0xa5ba980 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:21:27.214 BucketList App[34313:70b] Cannot find executable for CFBundle 0xa5cb8d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:21:27.245 BucketList App[34313:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:21:27.253 BucketList App[34313:70b] Unlimited access to network resources
+2014-09-10 19:21:27.274 BucketList App[34313:70b] [CDVTimer][keyboard] 0.090003ms
+2014-09-10 19:21:27.274 BucketList App[34313:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:21:27.275 BucketList App[34313:70b] [CDVTimer][statusbar] 0.379980ms
+2014-09-10 19:21:27.275 BucketList App[34313:70b] [CDVTimer][TotalPluginStartup] 1.389980ms
+2014-09-10 19:21:27.409 BucketList App[34313:70b] Resetting plugins due to page load.
+2014-09-10 19:21:27.801 BucketList App[34313:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[34685]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:26:55.179 BucketList App[34685:70b] Cannot find executable for CFBundle 0xa36bb20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:26:55.188 BucketList App[34685:70b] Cannot find executable for CFBundle 0xa5922f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:26:55.218 BucketList App[34685:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:26:55.225 BucketList App[34685:70b] Unlimited access to network resources
+2014-09-10 19:26:55.250 BucketList App[34685:70b] [CDVTimer][keyboard] 0.092983ms
+2014-09-10 19:26:55.250 BucketList App[34685:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:26:55.251 BucketList App[34685:70b] [CDVTimer][statusbar] 0.639975ms
+2014-09-10 19:26:55.251 BucketList App[34685:70b] [CDVTimer][TotalPluginStartup] 1.649022ms
+2014-09-10 19:26:55.410 BucketList App[34685:70b] Resetting plugins due to page load.
+2014-09-10 19:26:55.806 BucketList App[34685:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+Terminating in response to SpringBoard's termination.
+objc[35054]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:31:38.817 BucketList App[35054:70b] Cannot find executable for CFBundle 0xa540480 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:31:38.824 BucketList App[35054:70b] Cannot find executable for CFBundle 0xa5652f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:31:38.856 BucketList App[35054:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:31:38.864 BucketList App[35054:70b] Unlimited access to network resources
+2014-09-10 19:31:38.897 BucketList App[35054:70b] [CDVTimer][keyboard] 0.090003ms
+2014-09-10 19:31:38.897 BucketList App[35054:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:31:38.898 BucketList App[35054:70b] [CDVTimer][statusbar] 0.378966ms
+2014-09-10 19:31:38.898 BucketList App[35054:70b] [CDVTimer][TotalPluginStartup] 1.407027ms
+2014-09-10 19:31:39.005 BucketList App[35054:70b] Resetting plugins due to page load.
+2014-09-10 19:31:39.427 BucketList App[35054:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[35382]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:34:01.606 BucketList App[35382:70b] Cannot find executable for CFBundle 0xa2a98e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:34:01.611 BucketList App[35382:70b] Cannot find executable for CFBundle 0xa28f8b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:34:01.638 BucketList App[35382:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:34:01.643 BucketList App[35382:70b] Unlimited access to network resources
+2014-09-10 19:34:01.659 BucketList App[35382:70b] [CDVTimer][keyboard] 0.064015ms
+2014-09-10 19:34:01.659 BucketList App[35382:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:34:01.660 BucketList App[35382:70b] [CDVTimer][statusbar] 0.346005ms
+2014-09-10 19:34:01.660 BucketList App[35382:70b] [CDVTimer][TotalPluginStartup] 1.242995ms
+2014-09-10 19:34:01.735 BucketList App[35382:70b] Resetting plugins due to page load.
+2014-09-10 19:34:02.005 BucketList App[35382:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[35732]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:34:52.742 BucketList App[35732:70b] Cannot find executable for CFBundle 0xa3d1610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:34:52.748 BucketList App[35732:70b] Cannot find executable for CFBundle 0xa3ee280 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:34:53.139 BucketList App[35732:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:34:53.152 BucketList App[35732:70b] Unlimited access to network resources
+2014-09-10 19:34:53.276 BucketList App[35732:70b] [CDVTimer][keyboard] 0.128984ms
+2014-09-10 19:34:53.277 BucketList App[35732:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:34:53.277 BucketList App[35732:70b] [CDVTimer][statusbar] 0.422001ms
+2014-09-10 19:34:53.278 BucketList App[35732:70b] [CDVTimer][TotalPluginStartup] 1.778007ms
+2014-09-10 19:34:53.457 BucketList App[35732:70b] Resetting plugins due to page load.
+2014-09-10 19:34:54.274 BucketList App[35732:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+2014-09-10 19:34:54.532 BucketList App[35732:70b] THREAD WARNING: ['Device'] took '11.738770' ms. Plugin should use a background thread.
+objc[36098]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:41:20.021 BucketList App[36098:70b] Cannot find executable for CFBundle 0xa232000 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:41:20.030 BucketList App[36098:70b] Cannot find executable for CFBundle 0xa37add0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:41:20.065 BucketList App[36098:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:41:20.073 BucketList App[36098:70b] Unlimited access to network resources
+2014-09-10 19:41:20.108 BucketList App[36098:70b] [CDVTimer][keyboard] 0.093043ms
+2014-09-10 19:41:20.108 BucketList App[36098:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:41:20.109 BucketList App[36098:70b] [CDVTimer][statusbar] 0.635982ms
+2014-09-10 19:41:20.111 BucketList App[36098:70b] [CDVTimer][TotalPluginStartup] 3.372014ms
+2014-09-10 19:41:20.251 BucketList App[36098:70b] Resetting plugins due to page load.
+2014-09-10 19:41:20.622 BucketList App[36098:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+Terminating in response to SpringBoard's termination.
+objc[36309]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:42:14.093 BucketList App[36309:70b] Cannot find executable for CFBundle 0xa556f90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:42:14.098 BucketList App[36309:70b] Cannot find executable for CFBundle 0xa572260 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:42:14.128 BucketList App[36309:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:42:14.137 BucketList App[36309:70b] Unlimited access to network resources
+2014-09-10 19:42:14.162 BucketList App[36309:70b] [CDVTimer][keyboard] 0.095963ms
+2014-09-10 19:42:14.162 BucketList App[36309:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:42:14.163 BucketList App[36309:70b] [CDVTimer][statusbar] 0.402033ms
+2014-09-10 19:42:14.163 BucketList App[36309:70b] [CDVTimer][TotalPluginStartup] 1.477957ms
+2014-09-10 19:42:14.301 BucketList App[36309:70b] Resetting plugins due to page load.
+2014-09-10 19:42:14.708 BucketList App[36309:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[36686]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:48:56.487 BucketList App[36686:70b] Cannot find executable for CFBundle 0xa37c950 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:48:56.494 BucketList App[36686:70b] Cannot find executable for CFBundle 0xa5711e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:48:56.538 BucketList App[36686:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:48:56.546 BucketList App[36686:70b] Unlimited access to network resources
+2014-09-10 19:48:56.569 BucketList App[36686:70b] [CDVTimer][keyboard] 0.084043ms
+2014-09-10 19:48:56.569 BucketList App[36686:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:48:56.570 BucketList App[36686:70b] [CDVTimer][statusbar] 0.417054ms
+2014-09-10 19:48:56.570 BucketList App[36686:70b] [CDVTimer][TotalPluginStartup] 1.536012ms
+2014-09-10 19:48:56.682 BucketList App[36686:70b] Resetting plugins due to page load.
+2014-09-10 19:48:57.030 BucketList App[36686:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#%23%2Fauth%2Fsignin
+Terminating in response to SpringBoard's termination.
+objc[37035]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:49:28.481 BucketList App[37035:70b] Cannot find executable for CFBundle 0xa37abd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:49:28.493 BucketList App[37035:70b] Cannot find executable for CFBundle 0xa48aa70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:49:28.529 BucketList App[37035:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:49:28.538 BucketList App[37035:70b] Unlimited access to network resources
+2014-09-10 19:49:28.571 BucketList App[37035:70b] [CDVTimer][keyboard] 0.095010ms
+2014-09-10 19:49:28.573 BucketList App[37035:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:49:28.574 BucketList App[37035:70b] [CDVTimer][statusbar] 1.002014ms
+2014-09-10 19:49:28.575 BucketList App[37035:70b] [CDVTimer][TotalPluginStartup] 4.002988ms
+2014-09-10 19:49:28.694 BucketList App[37035:70b] Resetting plugins due to page load.
+2014-09-10 19:49:29.058 BucketList App[37035:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[37396]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:51:21.106 BucketList App[37396:70b] Cannot find executable for CFBundle 0xa25ed60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:51:21.113 BucketList App[37396:70b] Cannot find executable for CFBundle 0xa284550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:51:21.144 BucketList App[37396:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:51:21.151 BucketList App[37396:70b] Unlimited access to network resources
+2014-09-10 19:51:21.174 BucketList App[37396:70b] [CDVTimer][keyboard] 0.093997ms
+2014-09-10 19:51:21.175 BucketList App[37396:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:51:21.176 BucketList App[37396:70b] [CDVTimer][statusbar] 0.493050ms
+2014-09-10 19:51:21.176 BucketList App[37396:70b] [CDVTimer][TotalPluginStartup] 1.896977ms
+2014-09-10 19:51:21.290 BucketList App[37396:70b] Resetting plugins due to page load.
+2014-09-10 19:51:21.643 BucketList App[37396:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signin
+objc[37773]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-09-10 19:56:06.773 BucketList App[37773:70b] Cannot find executable for CFBundle 0xa55bca0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-09-10 19:56:06.802 BucketList App[37773:70b] Cannot find executable for CFBundle 0xa47b4b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-09-10 19:56:06.842 BucketList App[37773:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-10 19:56:06.875 BucketList App[37773:70b] Unlimited access to network resources
+2014-09-10 19:56:07.070 BucketList App[37773:70b] [CDVTimer][keyboard] 0.137031ms
+2014-09-10 19:56:07.071 BucketList App[37773:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-10 19:56:07.072 BucketList App[37773:70b] [CDVTimer][statusbar] 0.629961ms
+2014-09-10 19:56:07.072 BucketList App[37773:70b] [CDVTimer][TotalPluginStartup] 2.059996ms
+2014-09-10 19:56:07.254 BucketList App[37773:70b] Resetting plugins due to page load.
+2014-09-10 19:56:07.711 BucketList App[37773:70b] Finished load of: file:///Users/jlauri/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF4CE17D-9AB4-4A84-AD64-10368060CA37/BucketList%20App.app/www/index.html#/auth/signup

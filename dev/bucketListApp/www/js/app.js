@@ -12,7 +12,7 @@ angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
         }
 
         $rootScope.userEmail = null;
-        $rootScope.baseUrl = 'https://bucketlist-app.firebaseio.com/';
+        $rootScope.baseUrl = 'https://newzking.firebaseio.com/';
         var authRef = new Firebase($rootScope.baseUrl);
         $rootScope.auth = $firebaseAuth(authRef);
 
@@ -51,7 +51,7 @@ angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
                 } else if (user) {
                     // user authenticated with Firebase
                     $rootScope.userEmail = user.email;
-                    $window.location.href = ('#/bucket/list');
+                    $window.location.href = ('#/question/list');
                 } else {
                     // user is logged out
                     $rootScope.userEmail = null;
@@ -110,5 +110,19 @@ angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
                 }
             }
         })
-    $urlRouterProvider.otherwise('/auth/signin');
+        .state('question', {
+            url: "/question",
+            abstract: true,
+            templateUrl: "templates/question.html"
+        })
+        .state('question.list', {
+            url: '/list',
+            views: {
+                'question-list': {
+                    templateUrl: 'templates/question-list.html',
+                    controller: 'questionCtrl'
+                }
+            }
+        })
+    $urlRouterProvider.otherwise('/auth/signup');
 });

@@ -17,3 +17,7 @@
 .ion-checkmark-circled.icon-actions.margin{
 	margin-right: 35px;
 }
+.my-item {
+  left: 0;
+  right: 0;
+}
