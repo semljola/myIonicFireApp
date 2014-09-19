@@ -51,7 +51,7 @@ angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
                 } else if (user) {
                     // user authenticated with Firebase
                     $rootScope.userEmail = user.email;
-                    $window.location.href = ('#/question/list');
+                    $window.location.href = ('#/quiz/list');
                 } else {
                     // user is logged out
                     $rootScope.userEmail = null;
@@ -110,19 +110,33 @@ angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
                 }
             }
         })
-        .state('question', {
-            url: "/question",
+        .state('quiz', {
+            url: "/quiz",
             abstract: true,
             templateUrl: "templates/question.html"
         })
-        .state('question.list', {
+        .state('quiz.list', {
             url: '/list',
             views: {
-                'question-list': {
+                'quiz-list': {
                     templateUrl: 'templates/question-list.html',
                     controller: 'questionCtrl'
                 }
             }
         })
-    $urlRouterProvider.otherwise('/auth/signup');
+        .state('result', {
+            url: "/result",
+            abstract: true,
+            templateUrl: "templates/quiz-list"
+        })
+        .state('result.list', {
+            url: '/list',
+            views: {
+                'result-list': {
+                    templateUrl: 'templates/quiz-list.html',
+                    controller: 'questionCtrl'
+                }
+            }
+        })
+    $urlRouterProvider.otherwise('/auth/signin');
 });

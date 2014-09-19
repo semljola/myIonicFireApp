@@ -24,7 +24,7 @@ angular.module('bucketList.controllers', [])
                 }).then(function(user) {
                     $rootScope.hide();
                     $rootScope.userEmail = user.email;
-                    $window.location.href = ('#/question/list');
+                    $window.location.href = ('#/quiz/list');
                 }, function(error) {
                     $rootScope.hide();
                     if (error.code == 'INVALID_EMAIL') {
@@ -174,6 +174,7 @@ angular.module('bucketList.controllers', [])
 })
 
 .controller('questionCtrl', function($rootScope, $scope, $window, $firebase) {
+    alert("hello");
         $rootScope.show("Please wait... Processing");
 /*    $scope.list = [];
     var bucketListRef = new Firebase($rootScope.baseUrl + "20140910");
@@ -194,9 +195,14 @@ angular.module('bucketList.controllers', [])
         } else {
             $scope.noData = false;
         }
- */       $rootScope.hide();
-  //  });
+        $rootScope.hide();
+    });
 
+*/
+        $scope.validateQuestions = function() {
+                $rootScope.show('Please wait.. Rättar');
+                
+        }
 
 })
 
@@ -240,11 +246,6 @@ angular.module('bucketList.controllers', [])
         });
     };
 });
-
-
-
-
-
 
 function escapeEmailAddress(email) {
     if (!email) return false
